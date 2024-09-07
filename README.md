@@ -1,4 +1,4 @@
-# simran-persnal-poartfolio
+# simran-persnal-portfolio
 "Excited to share my personal portfolio, where I've compiled my journey as a web developer. Check out my projects and skills in action!" 💻✨
 
 "Proud to showcase my work and passion through my personal portfolio! Take a look and explore my journey in web development." 🚀🌐
